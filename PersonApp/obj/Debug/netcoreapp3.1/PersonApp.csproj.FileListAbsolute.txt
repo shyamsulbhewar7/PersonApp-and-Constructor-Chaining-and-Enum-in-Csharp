@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\bin\Debug\netcoreapp3.1\PersonApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\PersonApp\obj\Debug\netcoreapp3.1\PersonApp.genruntimeconfig.cache
